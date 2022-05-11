@@ -3,4 +3,4 @@
 "info":"မြန်မာလိုးကား ပါဝင်သည်",
 "user":"109879",
 "playstore":"https://play.google.com/store/apps/details?id=com.bluemini.hzt",
-"directlink":"https://www.mediafire.com/file/bdicr1fvpz4s3ah/Mini_BLUE.apk/file"}]
+"directlink":"https://www.mediafire.com/file/n260w3mn8l112tq/Mini+BLUE_4.0.apk/file"}]
