@@ -2,5 +2,5 @@
 "name":"Mini Blue",
 "info":"မြန်မာလိုးကား ပါဝင်သည်",
 "user":"549879",
-"playstore":"https://www.mediafire.com/file/szgxzg9bo72oz46/Mini+BLUE_7.0.apk/file",
+"playstore":"https://d.cdnpure.com/b/APK/com.bluemini.hzt?version=latest",
 "directlink":"https://protv-version.pages.dev/Mini%20BLUE_7.0.apk"}]
